@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Main file for creation of data representations
-
+@author: bharback
 '''
 
 import CLASS_ReviewDataSet as rds
