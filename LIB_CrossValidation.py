@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Library containing useful functions for cross validation
-
+@author: bharback
 '''
 
 import numpy as np
