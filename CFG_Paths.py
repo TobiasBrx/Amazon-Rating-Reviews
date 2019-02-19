@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Configuration file storing all relevant paths
+@author bryan harback
 
 '''
 
